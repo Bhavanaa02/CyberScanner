@@ -19,7 +19,7 @@
 
 ## 📸 Sample Output
 
-![Scan Output](sample_output\amazon_scan.png)
+![Scan Output](amazon_scan.png)
 
 ---
 
