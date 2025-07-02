@@ -55,7 +55,9 @@ Replace `example.com` with any domain like `amazon.in`, `google.com`, etc.
 
 ---
 
-<pre><code>## 📁 Project Structure ``` CyberScanner/ ├── scanner.py # Main CLI script ├── utils.py # Helper functions (ports, SSL, headers) ├── requirements.txt # Python dependencies ├── sample_output/ # Screenshot of sample scan └── README.md # Project details ``` </code></pre>
+## 📁 Project Structure 
+``` 
+CyberScanner/ ── scanner.py # Main CLI script ├── utils.py # Helper functions (ports, SSL, headers) ├── requirements.txt # Python dependencies ├── sample_output/ # Screenshot of sample scan └── README.md # Project details ``` </code></pre>
 ---
 
 ## 📄 License
