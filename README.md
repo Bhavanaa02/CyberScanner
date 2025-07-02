@@ -59,9 +59,13 @@ Replace `example.com` with any domain like `amazon.in`, `google.com`, etc.
 
 CyberScanner/
 ├── scanner.py # Main CLI script
+|
 ├── utils.py # Helper functions (ports, SSL, headers)
+|
 ├── requirements.txt # Python dependencies
+|
 ├── sample_output/ # Screenshot of sample scan
+|
 └── README.md # Project details
 
 ---
