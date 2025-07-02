@@ -19,7 +19,7 @@
 
 ## 📸 Sample Output
 
-![Scan Output](sample_output/amazon_scan.png)
+![Scan Output](sample_output\amazon_scan.png)
 
 ---
 
@@ -30,13 +30,14 @@
 ```bash
 git clone https://github.com/Bhavanaa02/CyberScanner.git
 cd CyberScanner
-
+```
 
 ### 2️⃣ Install requirements
 
 ```bash
 pip install -r requirements.txt
 
+```
 
 ### 3️⃣ Run the tool
 
@@ -44,6 +45,7 @@ pip install -r requirements.txt
 python scanner.py example.com
 
 Replace `example.com` with any domain like `amazon.in`, `google.com`, etc.
+```
 
 ## 🧠 Built With
 
